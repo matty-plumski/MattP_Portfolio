@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matt Plummer
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,11 +10,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Victoria University of Wellington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Matt’s background spans the arts and technology. He acts as a ‘digital interpreter’, working with researchers from different disciplines to utilise technology in innovative and transformative ways.
 
 interests:
 - Artificial Intelligence
