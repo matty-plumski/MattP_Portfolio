@@ -6,7 +6,7 @@ title: Matt Plummer
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Digital Research Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Matt’s background spans the arts and technology. He acts as a ‘digital interpreter’, working with researchers from different disciplines to utilise technology in innovative and transformative ways. He’s assisted with the development of a range of open source projects, augmented reality applications and research tools.
